@@ -1,0 +1,70 @@
+## [1.2.2]
+
+MAËL LE GOFF changes
+
+- Error MissingPluginException with video_thumbnail fixed [#49](https://github.com/seel-channel/video_editor/pull/49)
+- Add epoch to exportation names by default [#50](https://github.com/seel-channel/video_editor/pull/50)
+
+## [1.2.1]
+
+MAËL LE GOFF changes
+
+- Added icons customization in trimmer style [#45](https://github.com/seel-channel/video_editor/pull/45)
+- Improved cover exportation + apply cover quality in thumbnail [#46](https://github.com/seel-channel/video_editor/pull/46)
+- Fix exportation directory issues + add exportation parameters (cover format and exportation directory) [#47](https://github.com/seel-channel/video_editor/pull/47)
+- Change how video dimensions are computed + update example and libraries [#48](https://github.com/seel-channel/video_editor/pull/48)
+
+FELIPE MURGUIA changes
+
+- Migrated to FFMPEG KIT xd
+
+## [1.2.0]
+
+MAËL LE GOFF changes
+
+- Trim slider timeline
+- New smooth trimmer when video durarion > maxDuration
+- Export video cover
+- Crop's bugs fixed
+- Video export's bugs fixed
+- Portrait scale's bugs fixed
+
+## [1.1.0]
+
+- Sound Null Safety Migration
+- Preffered Aspect Ratio on crop
+- Improved gesture on crop screen
+
+## [1.0.3+1]
+
+- [UNIDENTIFIED] ERROR FIXED.
+
+## [1.0.3]
+
+- Progress bar on export
+- Improved export function
+
+## [1.0.2]
+
+- Improved cropping gestures
+- TrimSlider bugs fixed
+
+## [1.0.1]
+
+- Export Video:
+
+  - VideoExportPreset
+  - customFFMPEGInstruction
+
+- Trim Slider:
+  - Load faster thumbnails
+  - MaxTrimDuration
+  - Bugs Fixed
+
+## [1.0.0+1]
+
+- Export error fixed.
+
+## [1.0.0]
+
+- Initial Release.
